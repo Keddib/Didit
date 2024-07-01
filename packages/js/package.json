@@ -25,7 +25,7 @@
   "devDependencies": {
     "@didit-sdk/eslint-config": "workspace:*",
     "@didit-sdk/tsconfig": "workspace:*",
-    "@wagmi/connectors": "^5.0.14",
+    "@wagmi/connectors": "^5.0.21",
     "@wagmi/core": "^2.11.2",
     "viem": "^2.15.1"
   },
